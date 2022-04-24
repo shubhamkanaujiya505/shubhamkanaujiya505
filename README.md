@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamkanaujiya505
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C/C++, OOPS, Python, Javascript
-- 💞️ I’m looking to collaborate on project 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me shubhamkanaujiya505@gmail.com
 
 <!---
