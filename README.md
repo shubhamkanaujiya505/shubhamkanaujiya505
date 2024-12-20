@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Kanaujiya
 - 👀 I’m interested in coding and developing 
-- 🌱 I’m currently learning C/C++, OOPS, Python, Javascript, PHP, MySQLi, Ajax, JQuery
+- 🌱 I’m currently learning C/C++, OOPS, Javascript, PHP, MySQLi, Ajax, JQuery
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me shubhamkanaujiya505@gmail.com
 
